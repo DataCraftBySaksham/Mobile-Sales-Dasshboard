@@ -67,7 +67,7 @@ Improves inventory planning and demand forecasting
 ### Screenshots
 
 ![Dashboard Preview](https://github.com/DataCraftBySaksham/Mobile-Sales-Dasshboard/blob/main/Snapshot%20of%20the%20Dashboard.png)
-![Dashboard Preview]()
+![Dashboard Preview](https://github.com/DataCraftBySaksham/Mobile-Sales-Dasshboard/blob/main/Snapshot%20of%20MTD%20Report.png)
 
 
 
